@@ -23,9 +23,5 @@ namespace CasaDoCodigo.Controllers
             return View();
         }
 
-        public IActionResult Resumo()
-        {
-            return View();
-        }
     }
 }
